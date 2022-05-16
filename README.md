@@ -4,7 +4,7 @@
 ## <div align="center">Olá, me chamo Sadrak, sou programador Júnior Full stack e a um pouco mais de um ano venho dedicado meus estudos nessa área. Apaixonado por tecnologia e por design, desde adolescente busco conhecimento nesse ecossistema tecnológico. Meu principal objetivo é conseguir solucionar problemas e conseguir dar uma experiência incrível aos usuários. 💜</div>  
   
   <div align="center">
-  <a href="https://github.com/PedroLopes7K">
+  <a href="https://github.com/sadrakmorais">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sadrakmorais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadrakmorais&layout=compact&langs_count=7&theme=dracula"/>
 </div>
