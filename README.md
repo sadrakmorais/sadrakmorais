@@ -1,7 +1,9 @@
  
   
 
-## <div align="center">Olá, me chamo Sadrak, sou programador Júnior Full stack e a um pouco mais de um ano venho dedicado meus estudos nessa área. Apaixonado por tecnologia e por design, desde adolescente busco conhecimento nesse ecossistema tecnológico. Meu principal objetivo é conseguir solucionar problemas e conseguir dar uma experiência incrível aos usuários. 💜</div>  
+## <div align="center">Olá, me chamo Sadrak, sou Bacharel em Ciência da Computação e tenho mais de dois anos de experiência com desenvolvimento de Front-end. Minhas principais habilidades técnicas são utilizando JavaScript e typescript, com ênfase em React e NextJs. Sou teamplayer em metodologias ágeis, principalmente utilizando SCRUM.
+
+ Recentemente tive a oportunidade de aprimorar minhas habilidades em testes unitários no front-end sempre buscando melhorar a confiabilidade no código e me manter atualizado com as principais tecnologias da atualidade.</div>  
   
   <div align="center">
   <a href="https://github.com/sadrakmorais">
