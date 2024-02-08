@@ -1,7 +1,20 @@
  
   
 
-## <div align="left">Olá, me chamo Sadrak, sou Bacharel em Ciência da Computação e tenho mais de dois anos de experiência com desenvolvimento de Front-end. Minhas principais habilidades técnicas são utilizando JavaScript e typescript, com ênfase em React e NextJs. Sou teamplayer em metodologias ágeis, principalmente utilizando SCRUM. Recentemente tive a oportunidade de aprimorar minhas habilidades em testes unitários no front-end sempre buscando melhorar a confiabilidade no código e me manter atualizado com as principais tecnologias da atualidade.</div>  
+## <div align="left">Oi, eu sou o Sadrak! Sou movido por conhecimento e me encontrei na tecnologia!
+Sou formado em ciências da computação, e desde a faculdade, meu foco total tem
+sido aprimorar meus conhecimentos em programação, e sempre estar acompanhando o
+que há de novo na área. Tenho foco principal em Desenvolvimento de frontend,
+tendo sólidos conhecimentos em JavaScript,Css,HTML,React,NextJs,Typescript e
+também estou familiarizado com as principais bibliotecas dessas tecnologias.
+</br>
+Tive a oportunidade de colaborar em diversos times, com colegas de diferentes
+partes do Brasil, o que me proporcionou uma compreensão abrangente das
+metodologias de trabalho e a capacidade de adaptar-me facilmente a diferentes
+ambientes e culturas organizacionais. Estou familiarizado com práticas ágeis e
+enxergo a agilidade como uma abordagem fundamental para o sucesso de qualquer
+projeto.
+</div>  
   
   <div align="center">
   <a href="https://github.com/sadrakmorais">
