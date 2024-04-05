@@ -32,7 +32,7 @@ projeto.
 
 ## Connect with me  
 <div align="center">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/sadrak-morais-5269601b6/](https://www.linkedin.com/in/sadrak-morais/)">
+<a href="https://www.linkedin.com/in/sadrak-morais/">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/https://www.instagram.com/zadraki.m/?hl=pt-br">
