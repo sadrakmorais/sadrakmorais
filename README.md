@@ -1,19 +1,15 @@
  
   
 
-## <div align="left">Oi, eu sou o Sadrak! Sou movido por conhecimento e me encontrei na tecnologia!
-Sou formado em ciências da computação, e desde a faculdade, meu foco total tem
-sido aprimorar meus conhecimentos em programação, e sempre estar acompanhando o
-que há de novo na área. Tenho foco principal em Desenvolvimento de frontend,
-tendo sólidos conhecimentos em JavaScript,Css,HTML,React,NextJs,Typescript e
-também estou familiarizado com as principais bibliotecas dessas tecnologias.
+## <div align="left">Oi, eu sou o Sadrak!
+### Desenvolvedor frontend movido por conhecimento, desafios e tecnologia.
+Sou formado em Ciência da Computação e atuo como Desenvolvedor Frontend Pleno, com mais de 3 anos de experiência em projetos web, focado em criar interfaces modernas, performáticas e acessíveis.
 </br>
-Tive a oportunidade de colaborar em diversos times, com colegas de diferentes
-partes do Brasil, o que me proporcionou uma compreensão abrangente das
-metodologias de trabalho e a capacidade de adaptar-me facilmente a diferentes
-ambientes e culturas organizacionais. Estou familiarizado com práticas ágeis e
-enxergo a agilidade como uma abordagem fundamental para o sucesso de qualquer
-projeto.
+Tenho especialização no ecossistema React e Next.js, além de experiência sólida com TypeScript, JavaScript, Tailwind CSS, HTML e CSS. Estou sempre acompanhando as tendências do frontend moderno e explorando boas práticas para entregar produtos de alta qualidade.
+</br>
+Ao longo da minha carreira, colaborei com times distribuídos por diversas regiões do Brasil, o que ampliou minha visão sobre metodologias de trabalho, práticas ágeis e a importância da comunicação em ambientes remotos e colaborativos.
+</br>
+Sou entusiasta de metodologias ágeis, design system, performance web e boas práticas de acessibilidade. Busco constantemente evoluir tecnicamente e contribuir para projetos que impactem positivamente a experiência dos usuários.
 </div>  
   
   <div align="center">
